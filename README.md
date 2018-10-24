@@ -13,6 +13,13 @@ apache server , mysql databse
 if you wanna use an other server should change the auth for the admin 
 area .
 ```
+auth info :
+
+```
+password : admin
+username : admin
+
+```
 
 
 ### Installing
